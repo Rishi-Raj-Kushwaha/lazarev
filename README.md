@@ -10,24 +10,27 @@
 5. [Animations and Interactivity](#animations-and-interactivity)
 6. [Credits](#credits)
 
+
 ## Project Overview
-The Lazarev Website Clone is a front-end project aimed at recreating the visually appealing and interactive design of the original Lazarev website. Built using HTML, CSS, and JavaScript, this clone emphasizes animations and modern design elements to enhance user experience.
+The Lazarev Website Clone is a front-end project that replicates the sleek, animated, and interactive design of the original Lazarev agency website. Built using HTML, CSS, and JavaScript, this clone showcases scroll-triggered animations, dynamic navigation, and responsive layouts to deliver a modern user experience.
 
 ## Technologies Used
-- **HTML5**: For structuring the content of the web pages.
-- **CSS3**: For styling and layout.
-- **JavaScript**: For adding interactivity and animations.
+- **HTML5**: Semantic structure and layout.
+- **CSS3**: Flexbox, Grid, transitions, and media queries.
+- **JavaScript (ES6+)**: DOM manipulation and animation control.
+- **GSAP & ScrollTrigger**: For advanced scroll-based animations.
 
 ## Getting Started
+
 
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/lazarev-clone.git
+   git clone https://github.com/Rishi-Raj-Kushwaha/lazarev.git
    ```
 2. **Navigate to the project directory:**
    ```bash
-   cd lazarev-clone
+   cd lazarev
    ```
 
 ### Running the Project
@@ -42,14 +45,21 @@ The Lazarev Website Clone is a front-end project aimed at recreating the visuall
 - **Responsive Layout**: Optimized for various screen sizes and devices.
 
 ## Animations and Interactivity
-The project uses CSS and JavaScript to create a variety of animations and interactive elements, such as:
-- **Hover Effects**: Enhances elements when users hover over them.
-- **Scroll Animations**: Elements animate into view as the user scrolls down the page.
-- **Menu Interactions**: Dynamic and interactive navigation menus.
+The project uses GSAP and ScrollTrigger to create a variety of animations and interactive elements, such as:
+- **Hover Effects**: Buttons and cards scale or change color on hover.
+- **Scroll Animations**: Text and images animate into view as the user scrolls.
+- **Pinned Scroll Sections**: Page 8 features a horizontal scroll effect with pinning.
+- **Menu Interactions**: Navigation expands and collapses with smooth transitions.
+- **Looping Marquee**: Page 1 includes a continuously scrolling image strip.
+
   
 
 ## Credits
 - **Original Design**: The original design inspiration comes from the Lazarev website.
-- **Libraries Used**: Any external libraries or frameworks used (if any) should be credited here.
+-  **Libraries Used**:
+  - [GSAP](https://greensock.com/gsap/)
+  - [ScrollTrigger](https://greensock.com/scrolltrigger/)
+
+
 
 

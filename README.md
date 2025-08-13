@@ -18,7 +18,7 @@
 <h3>🖥️ Desktop View</h3>
 
 
-<img src="https://github.com/Rishi-Raj-Kushwaha/lazarev/blob/main/img/Recording%202025-08-13%20110614.gif" width="800"/>
+![image](https://github.com/Rishi-Raj-Kushwaha/lazarev/blob/main/img/Recording%202025-08-13%20110614.gif)
 
 
 <img src="https://github.com/Rishi-Raj-Kushwaha/lazarev/blob/main/img/1.png" width="800"/>
@@ -76,6 +76,7 @@ The project uses GSAP and ScrollTrigger to create a variety of animations and in
 -  **Libraries Used**:
   - [GSAP](https://greensock.com/gsap/)
   - [ScrollTrigger](https://greensock.com/scrolltrigger/)
+
 
 
 

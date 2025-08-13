@@ -21,14 +21,10 @@
 
 
 
-
-![image](https://github.com/Rishi-Raj-Kushwaha/lazarev/blob/main/img/1.png)
-
-![image](https://github.com/Rishi-Raj-Kushwaha/lazarev/blob/main/img/2.png)
-
-![image](https://github.com/Rishi-Raj-Kushwaha/lazarev/blob/main/img/3.png)
-
-![image](https://github.com/Rishi-Raj-Kushwaha/lazarev/blob/main/img/4.png)
+<img src="https://github.com/Rishi-Raj-Kushwaha/lazarev/blob/main/img/1.png" width="400"/>
+<img src="https://github.com/Rishi-Raj-Kushwaha/lazarev/blob/main/img/2.png" width="400"/>
+<img src="https://github.com/Rishi-Raj-Kushwaha/lazarev/blob/main/img/3.png" width="400"/>
+<img src="https://github.com/Rishi-Raj-Kushwaha/lazarev/blob/main/img/4.png" width="400"/>
 
 
 
@@ -80,6 +76,7 @@ The project uses GSAP and ScrollTrigger to create a variety of animations and in
 -  **Libraries Used**:
   - [GSAP](https://greensock.com/gsap/)
   - [ScrollTrigger](https://greensock.com/scrolltrigger/)
+
 
 
 

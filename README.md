@@ -11,6 +11,21 @@
 6. [Credits](#credits)
 
 
+
+## Preview
+
+
+<h3>🖥️ Desktop View</h3>
+
+![image](https://github.com/Rishi-Raj-Kushwaha/lazarev/blob/main/img/Recording%202025-08-13%20110614.gif)
+
+
+
+
+<img src="https://github.com/Rishi-Raj-Kushwaha/NETFLY/blob/main/img/Mobile.jpg" width="300" alt="Mobile View">
+
+
+
 ## Project Overview
 The Lazarev Website Clone is a front-end project that replicates the sleek, animated, and interactive design of the original Lazarev agency website. Built using HTML, CSS, and JavaScript, this clone showcases scroll-triggered animations, dynamic navigation, and responsive layouts to deliver a modern user experience.
 
@@ -59,6 +74,7 @@ The project uses GSAP and ScrollTrigger to create a variety of animations and in
 -  **Libraries Used**:
   - [GSAP](https://greensock.com/gsap/)
   - [ScrollTrigger](https://greensock.com/scrolltrigger/)
+
 
 
 

@@ -22,7 +22,13 @@
 
 
 
-<img src="https://github.com/Rishi-Raj-Kushwaha/NETFLY/blob/main/img/Mobile.jpg" width="300" alt="Mobile View">
+![image](https://github.com/Rishi-Raj-Kushwaha/lazarev/blob/main/img/1.png)
+
+![image](https://github.com/Rishi-Raj-Kushwaha/lazarev/blob/main/img/2.png)
+
+![image](https://github.com/Rishi-Raj-Kushwaha/lazarev/blob/main/img/3.png)
+
+![image](https://github.com/Rishi-Raj-Kushwaha/lazarev/blob/main/img/4.png)
 
 
 
@@ -74,6 +80,7 @@ The project uses GSAP and ScrollTrigger to create a variety of animations and in
 -  **Libraries Used**:
   - [GSAP](https://greensock.com/gsap/)
   - [ScrollTrigger](https://greensock.com/scrolltrigger/)
+
 
 
 

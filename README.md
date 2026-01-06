@@ -15,6 +15,8 @@
 ## Preview
 
 
+Live Preview :- https://lazarev-personal-24.netlify.app/
+
 <h3>🖥️ Desktop View</h3>
 
 
@@ -76,6 +78,7 @@ The project uses GSAP and ScrollTrigger to create a variety of animations and in
 -  **Libraries Used**:
   - [GSAP](https://greensock.com/gsap/)
   - [ScrollTrigger](https://greensock.com/scrolltrigger/)
+
 
 
 
